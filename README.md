@@ -6,6 +6,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> 
 
 
+Cloud Araçları⚒️:
+
+<img src="https://camo.githubusercontent.com/f7117f8f905f5365e9b51ad5a1dbf18b9bfd5993a989eca5268e1ca5cf89f439/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f61646f62652d70686f746f73686f702d2d76312e706e67" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/7cbf09ab09608919d5eb72c0812a5fa3cd4996b18b79e19699d8718b49ff09b3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f61646f62652d696c6c7573747261746f722d2d76312e706e67" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/d641c44d21106dc4c7a7b2d8b900bc0ac40e1dc99b6dfd51554201d44e7be2ff/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f77696e646f77732d31302e706e67" style="max-width: 100%;">
+
+
 
 
 
